@@ -13,3 +13,16 @@ I am a computer science teacher and administrator of the school website. I plan 
 I know HTML, CSS, C++, Pascal at a basic level. A confident user of office software.
 
 # Code examples
+int multiply(int a, int b)
+{
+    return a * b;
+}
+
+# Education
++ Belarusian State Pedagogical University named after Maksim Tank
+  - Mathematics. Computer science
++ Polotsk State Univesity
+  - IT software (incomplete education)
+
+# Languages
+  I'm learning English on duolingo.
