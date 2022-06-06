@@ -1,5 +1,5 @@
 # Sviatlana Lushchyk
-
+![Sveta](/SvetaLushchik.png)
 # Contacts:
 + Phone: +37529 2994718
 + E-mail: svetlana.kabak8@gmail.com
