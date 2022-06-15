@@ -1,1 +1,1 @@
-https://svetalushchik.github.io/rsschool-cv/
+https://SvetaLushchik.github.io/rsschool-cv/
